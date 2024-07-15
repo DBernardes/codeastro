@@ -1,4 +1,4 @@
-# Demo: Introduction to Git
+# Demo: Introduction to Git!
 In this demo, we will go over how to (1) make a git repository via
 Github and clone it to your local machine; (2) Add and edit files to
 the repo; (3) Resolve conflicts between the remote and local versions
